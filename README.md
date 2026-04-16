@@ -84,13 +84,17 @@ OPENROUTER_API_KEY=your_openrouter_key
 
 ```bash
 uvicorn api:app --reload
-
 ```
+
+
+---
 
 ### 5️⃣ Run Frontend
 
 ```bash
 streamlit run frontend.py
+```
+
 ---
 
 ## 🎯 Example Use Cases
@@ -133,3 +137,4 @@ GitHub: https://github.com/your-username
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
+ve it a ⭐ on GitHub!
